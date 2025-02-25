@@ -1,4 +1,4 @@
-Tested only on Samsung A06!
+Tested only on Block blast version 6.3.4 and Samsung A06!
 
 requires opencv, numpy, adb
 
